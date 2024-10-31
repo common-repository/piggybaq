@@ -1,0 +1,11 @@
+.do_piggybaq{background:url('../images/piggybaq.png'); height:32px; width:32px; background-size:32px; display:block; position:absolute;}
+/*.piggybaq_partner {background: url('../images/partner.png'); height:32px; width:32px; background-size:32px; display: block; position: absolute;}*/
+.piggybaq_partner {background: #fad0a3 ; height: 40px; width: 40px; display: block; position: absolute; right: 5px; border-radius: 100%; color: #666; font-size: 9px; line-height: 40px;}
+.do_piggybaqTopRight{ top:-9px; right:-9px;}
+.do_piggybaqTopLeft{ top:-9px; left:-9px;}
+.do_piggybaqBottomLeft{ bottom:-9px; left:-9px;}
+.do_piggybaqBottomRight{ bottom:-9px; right:-9px;}
+
+.single-product div.product{ overflow:inherit !important;}
+.single-product div.product .images{ position:relative !important;}
+

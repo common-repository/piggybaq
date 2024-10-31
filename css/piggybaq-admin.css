@@ -1,0 +1,105 @@
+header{ background:url(../images/headerBg@2x.png) no-repeat top left; ; height:100px; padding: 5px 0px; background-size:cover; width: calc(100% - 20px); margin-right: 20px; margin-top: 18px;}
+.logo{ height:100px; width:100px; float:left;}
+.logocenter{ float:none !important; width:100px; margin:0 auto;}
+.logo img{ margin:5px 0px 0 0px; width:90px;}
+
+.update-nag{ display:none;}
+
+.piggySetupContain {
+ width: calc(90% - 20px);
+ margin: 0 auto;
+ background: url(../images/bottomBgFull@2x.png) #000 no-repeat left bottom;
+ height: auto;
+ padding:5%;
+ background-size: cover;
+ margin-right: 20px;
+}
+.piggySettingsContain{ width:98%; margin-top:20px}
+.piggySetupInner{ margin-bottom:15px;}
+.piggyCheck{
+    float:left; margin-right:20px;        
+}
+.piggySetupText{
+ font-family: 'Lato';
+ font-weight: 300;
+ color: #fff;
+ font-size: 24px;    
+ float:left;
+ line-height:38px;
+}
+.CenterText{ text-align:center; font-size:48px; width:100%; float:none; padding-bottom:30px;}
+.piggySetupLinks{ float:left; margin-left:50px;}
+.goBtn{ text-decoration:none; width:100px; height:38px; border:1px solid #fff; color:#fff; font-family:'Lato'; font-weight:300; text-align:center; font-size:24px; line-height:38px; display:block; text-transform:uppercase; background:transparent; cursor:pointer;}
+.goBtn:hover, .goBtn:focus{ text-decoration:none; color: #fff;}
+
+.piggybaqScreenShot{ width:70%; padding-top:10px;}
+.piggybaqScreenShot img{ width:100%;}
+.clearify{clear:both;}
+
+.piggybaqTitle{ font-family: 'Lato'; font-weight: 300; color: #fff; font-size: 36px; padding:15px 0; }
+.piggybaqSubTitle{ font-family:"Open Sans",sans-serif; color: #23282d; font-size: 24px; padding:15px 0; }
+.piggybaqProductTable{ font-family: 'Lato'; font-weight: 300; color: #fff; font-size: 16px; width:80%;  text-align:center; border:1px solid #acacac; border-bottom:none; margin-top:10px;}
+.piggybaqProductTable tr{}
+.piggybaqProductTable th{ font-weight:300; font-size:18px; padding:8px;  border-bottom:1px solid #acacac; border-right:1px solid #acacac;}
+.piggybaqProductTable td{ padding:8px; text-align:center; border-bottom:1px solid #acacac; border-right:1px solid #acacac;}
+.piggybaqProductTable tr td:last-child, .piggybaqProductTable tr th:last-child{ border-right: none}
+.piggybaqProductTable a{ text-decoration:none; width:60px; height:25px; border:1px solid #fff; color:#fff; font-family:'Lato'; font-weight:300; text-align:center; font-size:16px; line-height:25px; display:block; text-transform:uppercase; background:transparent; cursor:pointer; margin: 0 auto;}
+
+.piggybaqEditForm{font-family:"Open Sans",sans-serif; color: #23282d; font-size: 16px;}
+
+.piggybaqCat ul li{ padding:5px;}
+.piggybaqCat ul li ul, .piggybaqCat ul li ul li{ list-style:none; padding-bottom:0px;}
+.piggybaqCat ul li ul li{ padding-left:5px;}
+.piggybaqUpdateBtn{ padding:15px 0;}
+.piggybaqEditForm input[type=text]{width:150px; height:25px; line-height:25px; font-family:"Open Sans",sans-serif; color: #23282d; font-size:13px; background-color:#fff; padding:0 5px; border:none;}
+
+.piggySetupInner2{ padding-top:25px;}
+.piggySetupInner2 .piggyCheck{ margin-right:5px;}
+.piggySetupInner2 .piggyCheck img{ width:20px;}
+.piggySetupInner2 .piggySetupText{ font-family:"Open Sans",sans-serif; font-size:12px; line-height:20px; color:#23282d;}
+.piggysmallText{color:#fff; font-size:12px; line-height: 12px; font-weight: 400;}
+
+.piggySettingsContain h2{ font-size:28px;}
+.piggyFormText{font-family:"Open Sans",sans-serif; font-size:11px; line-height:12px; color:#23282d; margin-top:5px; margin-left:1px;}
+.piggybaqFormDivFirst{ margin-top:50px;}
+.piggybaqFormDiv{ padding-bottom:150px; margin-top:30px;}
+.piggyFormLabel{font-family:"Open Sans",sans-serif; font-size:20px; line-height:25px; color:#23282d; float:left; margin-right:10px; width:250px;}
+.piggyFormField{ float:left; width:168px;}
+.piggyFormField select{ min-width:160px; margin-top:10px;}
+.piggyFormLabelSwitch{ line-height:42px;}
+.piggyFormLeft{ float:left; width:30%; margin-right:10px;}
+.piggyFormRight{ float:left; width:30%; padding-left:10px; border-right:1px solid #acacac; border-left:1px solid #acacac;}
+.piggyFormLast{ margin-left:20px;}
+.piggyupdateBtn{ margin-top:55px; text-align:right;}
+.piggyIconPos{ border:1px solid #23282d; width:150px; height:150px; margin:40px auto; position:relative; margin-bottom:10px}
+.piggyFormLabelIconPos{ width:150px;}
+.piggyIconPosTitle{font-family:"Open Sans",sans-serif; font-size:20px; line-height:22px; color:#23282d; text-align:center; width:100%; line-height:150px;}
+.piggyWhiteCircle{ width:36px; height:36px; border-radius:100%; background:#fff; position:absolute;}
+.piggyWhiteCircle img{ width:84%; margin:8%;}
+.piggyTopLeft{ top:-18px; left:-18px;}
+.piggyTopRight{ top:-18px; right:-18px;}
+.piggyBottomLeft{ bottom:-18px; left:-18px;}
+.piggyBottomRight{ bottom:-18px; right:-18px;}
+.piggyTopLeft img{ display:none;}
+.piggyTopRight img{ display:block;}
+.piggyBottomLeft img{ display:none;}
+.piggyBottomRight img{ display:none;}
+.piggyRadioBtns{ padding-top:10px; width:211px;}
+.customDiscount{ width:64px; margin-top:5px;}
+.piggyRadioLeft{ float:left; width:35%;}
+.piggyRadioRight{ float:left; width:65%;}
+.inputThird .piggyRadioLeft{ margin-top:8px;}
+.piggybaqEditForm .piggybaqFormDiv{ padding-bottom:20px; margin-top:0px;}
+.piggybaqEditForm .piggyFormLabel{ width:200px;}
+.piggyIconText{ width:150px; margin:auto; margin-top:23px;}
+
+.confirmPriceDiv{ padding-top:0px;}
+.confirmProductPrice{color:#fe3233; font-size:24px; float:left;}
+.confirmProductPrice .price{ line-height:27px;}
+.confirmProductPrice .text{ font-size:12px;}
+.confirmPriceSign{ width:20px; float:left; color:#23282d; line-height: 25px; font-size:24px; text-align:center; margin:0 3px;}
+.confirmProductPrice2{ color:#23282d;}
+.confirmProductPrice input{ width:80px !important; border:none; height:25px; line-height:25px; color:#000; font-size:14px; padding-left:5px;}
+.confirmProductPrice3{ color:#0C0;}
+#post-body.columns-2 #postbox-container-1{ float:none; margin-right:0px; margin-top:20px;}
+.subsubsub LI A {cursor: pointer;}
